@@ -1,0 +1,7 @@
+This project is based on the android sample Snake API 10.
+Following features were added:
+-controll snake with buttons in screen
+-wrapping edges mode
+-special apple, that appears and disappears by time
+-fullscreen
+-tileSize attribute in XML file fixed
