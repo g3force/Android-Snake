@@ -14,7 +14,9 @@
  * limitations under the License.
  */
 
-package com.example.android.snake;
+package ommer.android.snake;
+
+import com.example.android.snake.R;
 
 import android.app.Activity;
 import android.os.Bundle;

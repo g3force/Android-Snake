@@ -24,8 +24,8 @@
     <uses-sdk
         android:targetSdkVersion="10"
         android:maxSdkVersion="11" />
-    <application android:label="Snake on a Phone" android:icon="@drawable/greenstar">
-      <activity android:name="Snake"
+    <application android:label="Snake" android:icon="@drawable/greenstar">
+      <activity android:name="ommer.android.snake.Snake"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
         android:screenOrientation="portrait"
         android:configChanges="keyboardHidden|orientation">
