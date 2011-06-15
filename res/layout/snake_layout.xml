@@ -15,11 +15,11 @@
 -->
 
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:snake="http://schemas.android.com/apk/res/com.example.android.snake"
+	xmlns:snake="http://schemas.android.com/apk/res/ommer.android.snake"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent">
 	
-	<ommer.android.snake.SnakeView
+	<ommer.android.snake.SnakeView 
 	 	android:id="@+id/snake"
 		android:layout_width="match_parent"
         android:layout_height="match_parent"

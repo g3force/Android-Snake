@@ -16,7 +16,6 @@
 
 package ommer.android.snake;
 
-import com.example.android.snake.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -83,8 +82,6 @@ public class TileView extends View {
         
         a.recycle();
     }
-
-    
     
     /**
      * Rests the internal array of Bitmaps used for drawing tiles, and

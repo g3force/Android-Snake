@@ -16,7 +16,7 @@
 
 package ommer.android.snake;
 
-import com.example.android.snake.R;
+import ommer.android.snake.R;
 
 import android.app.Activity;
 import android.os.Bundle;

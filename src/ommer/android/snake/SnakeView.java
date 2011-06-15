@@ -19,7 +19,7 @@ package ommer.android.snake;
 import java.util.ArrayList;
 import java.util.Random;
 
-import com.example.android.snake.R;
+import ommer.android.snake.R;
 
 import android.content.Context;
 import android.content.res.Resources;
